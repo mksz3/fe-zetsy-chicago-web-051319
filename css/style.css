@@ -21,7 +21,7 @@ body {
 
 /* headers */
 
-.wrapper header h1 {
+.wrapper header{
 	margin: 0;
 	font-size: 5em;
 	font-family: "Baskerville", serif;
